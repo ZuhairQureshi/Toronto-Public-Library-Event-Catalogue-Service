@@ -8,6 +8,6 @@ This project is extremely useful for people looking to make more social connecti
 
 The service can be improved by:
 * integrating a user interface that allows users to specify filters (i.e. genre of event, age category, branch)
-* incorporating location information to order display of branches on the catalogue based on nearness
+* incorporating location information to order display of branches on the catalogue based on nearness to user
 
 For now, all source code is contained in main.py.
